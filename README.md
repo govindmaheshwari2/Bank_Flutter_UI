@@ -1,6 +1,6 @@
-# bank_tutorial
+# Bank App Flutter UI
 
-A new Flutter project.
+-[Youtube Tutorial](https://youtu.be/-oipNCg9-o8)
 
 ## Getting Started
 
